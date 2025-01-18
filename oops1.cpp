@@ -151,6 +151,7 @@ int main()
 	c.print();
 	d.print();
 	e.print();
+	cout<<"Hello World";
 
 	// just before the return statement
 	// destructor will be called
